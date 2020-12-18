@@ -20,9 +20,6 @@ Usage (make)
     hash.o
         Compiles all the functions in hash.c into an object file
         
-    clean
-        Removes the object files containing the functions
-        
     htest1.o
         Creates object file htest1.o
         
@@ -47,4 +44,5 @@ Usage (make)
     test4
         Creates executable file htest4
         
-    
+    clean
+        Deletes all compiles executables and object files
