@@ -4,7 +4,7 @@ Files
         Contains all the functions in the library
         
     hash.h
-        Contains all the function declarations for the assignment
+        Contains all the function declarations for the functions in hash.c
         
     htest1.c - htest4.c
         A collection of main functions to be used to test the hashtable data structure
